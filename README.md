@@ -12,7 +12,6 @@ A simple implementation of the classic Pong game using Python and the Turtle gra
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
