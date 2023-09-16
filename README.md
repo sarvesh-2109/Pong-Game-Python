@@ -2,7 +2,8 @@
 A simple implementation of the classic Pong game using Python and the Turtle graphics library.
 
 
-![Game Preview](![image](https://github.com/sarvesh-2109/Pong-Game-Python/assets/113255836/a90752c9-2273-40cd-acdd-5ec6fe66b57e))
+## Output:
+https://github.com/sarvesh-2109/Pong-Game-Python/assets/113255836/ee37b41e-59fb-4d4b-ae0d-4d958f467022
 
 ## Table of Contents
 - [Introduction](#introduction)
