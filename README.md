@@ -40,7 +40,7 @@ This project demonstrates a basic implementation of Pong using Python's Turtle g
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/pong-game.git
+   git clone https://github.com/sarvesh-2109/Pong-Game-Python
    ```
 
 2. Change to the project directory:
